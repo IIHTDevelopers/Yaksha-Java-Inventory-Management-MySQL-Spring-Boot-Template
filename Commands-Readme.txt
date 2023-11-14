@@ -3,7 +3,7 @@
 
 * To launch your application, move into the target folder (cd target). Run the following command to run the application:
 
-	java -jar noteservice-0.0.1-SNAPSHOT.jar
+	java -jar inventorymanagement-0.0.1-SNAPSHOT.jar
 
 * Default credentials for MySQL:
 	Username: root
