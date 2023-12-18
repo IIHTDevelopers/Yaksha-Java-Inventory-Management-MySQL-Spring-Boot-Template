@@ -3,9 +3,10 @@ package com.inventorymanagement.dto;
 import java.io.Serializable;
 
 public class ProductDTO implements Serializable {
-
 	private Long id;
+
 	private String name;
+
 	private Double price;
 
 	public ProductDTO() {
