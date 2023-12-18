@@ -3,10 +3,12 @@ package com.inventorymanagement.entity;
 import java.util.Date;
 
 public class Sell {
-
 	private Long id;
+
 	private Long productId;
+
 	private Integer quantity;
+
 	private Date orderDate;
 
 	public Sell() {
