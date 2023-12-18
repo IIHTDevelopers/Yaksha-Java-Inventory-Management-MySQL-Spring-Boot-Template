@@ -4,10 +4,12 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class SellDTO implements Serializable {
-
 	private Long id;
+
 	private Long productId;
+
 	private Integer quantity;
+
 	private Date orderDate;
 
 	public SellDTO() {
